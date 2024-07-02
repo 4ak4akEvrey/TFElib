@@ -1,0 +1,15 @@
+ak4ak\the_rp\RPname\LocalChatEvent.class
+ak4ak\the_rp\RPnameDatabaseMenager.class
+ak4ak\the_rp\RPname\Placeholder.class
+ak4ak\the_rp\RPname\Command\regplayerCMD.class
+ak4ak\the_rp\RPname\Command\deleteplayerCMD.class
+ak4ak\the_rp\RPname\Command\getrpnameCMD.class
+ak4ak\the_rp\RPcommand\tryCMD.class
+ak4ak\the_rp\RPname\Event.class
+ak4ak\the_rp\RPcommand\oocCMD.class
+ak4ak\the_rp\RPcommand\meCMD.class
+ak4ak\the_rp\RPcommand\doCMD.class
+ak4ak\the_rp\RPname\Command\getplayerCMD.class
+ak4ak\the_rp\RPname\util.class
+ak4ak\the_rp\RPcommand\rollCMD.class
+ak4ak\the_rp\THE_RP.class

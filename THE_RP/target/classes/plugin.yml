@@ -1,0 +1,32 @@
+name: THE_RP
+version: '1.0-SNAPSHOT'
+main: ak4ak.the_rp.THE_RP
+api-version: '1.20'
+commands:
+  regplayer:
+    permission: TFE.moder
+  getplayer:
+    permission: TFE.moder
+  deleteplayer:
+    permission: TFE.moder
+  getrpname:
+    permission: TFE.moder
+  me:
+    aliases:
+      - я
+  try:
+  do:
+  ooc:
+    aliases:
+      - nonrp
+      - b
+      - n
+  roll:
+
+
+dependencies:
+  server:
+    PlaceholderAPI:
+      # Load order is relative to the dependency. So here PlaceholderAPI loads before our plugin.
+      load: BEFORE
+      required: false
